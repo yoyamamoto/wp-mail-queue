@@ -1,0 +1,16 @@
+{
+    "name": "pulltabinfo/wp_mailqueue",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/",
+            "Src\\Pattern\\": "src/Pattern/",
+            "Src\\Helper\\": "src/Helper/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}

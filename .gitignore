@@ -1,0 +1,10 @@
+# gitignore
+
+#file
+
+#directory
+backup/
+
+#composer
+composer.lock
+vendor/
